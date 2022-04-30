@@ -1019,7 +1019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cas: {fileID: 1966564451114424888, guid: 2edb9854317ba0d4688f76e375b68759, type: 3}
-  speed: 250
+  speed: 70
 --- !u!1 &1210724272
 GameObject:
   m_ObjectHideFlags: 0

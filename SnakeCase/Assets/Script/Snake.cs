@@ -42,10 +42,10 @@ public class Snake : MonoBehaviour
                 if (object_eat.score > 0)
                 {
                     highscore.AddHighscoreEntry(object_eat.score);
-                    SceneManager.LoadScene(0);
                 }
 
             }
+            SceneManager.LoadScene(0);
 
 
 

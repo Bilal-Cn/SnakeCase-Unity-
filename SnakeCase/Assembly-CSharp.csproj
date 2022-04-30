@@ -57,9 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Game_Manager.cs" />
+    <Compile Include="Assets\Script\HighscoreTable.cs" />
     <Compile Include="Assets\Script\Snake.cs" />
     <Compile Include="Assets\Script\Eat.cs" />
-    <Compile Include="Assets\Script\HighscoreTable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

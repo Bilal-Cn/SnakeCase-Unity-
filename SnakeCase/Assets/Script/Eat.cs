@@ -26,7 +26,7 @@ public class Eat : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("control" , 0, 10.0f);
+        InvokeRepeating("control" , 0, 20.0f);
 
 
 

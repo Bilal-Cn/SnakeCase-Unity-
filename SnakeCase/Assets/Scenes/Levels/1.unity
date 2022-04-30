@@ -1476,6 +1476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Snake
       objectReference: {fileID: 0}
+    - target: {fileID: 7842046390238416357, guid: 69f69a3075b1abe47bae9d1fd693aed9, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 7842046390238416359, guid: 69f69a3075b1abe47bae9d1fd693aed9, type: 3}
       propertyPath: m_RootOrder
       value: 4
